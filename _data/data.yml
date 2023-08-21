@@ -16,13 +16,13 @@ sidebar:
     phone: +91 9740256934
     citizenship:
     website: clarence-coder.github.io/cv #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: 
+    xing: 
+    github: clarence-coder
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,17 +35,17 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
-      - item: Snowboarding
+      - item: Reading News
         link:
 
-      - item: Cooking
+      - item: Debating
         link:
 
 career-profile:
@@ -111,17 +111,19 @@ experiences:
           - Contributed to team meetings, offering valuable insights and solutions to technical challenges.
           
           
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Full Stack Developer Intern
+      time: July 2019
+      company: Kuwait City, Kuwait
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Utilized HTML, CSS, and JavaScript to create responsive designs suitable for various devices. 
+          - Enhanced customer satisfaction by achieving a 15% reduction in server load times, addressing connectivity concerns, and bolstering the company's online visibility.
+          - Optimized MySQL databases for web applications, improving data retrieval time by 34% while also storing useful user data and information.
+
 projects:
     title: Projects
     intro: >
@@ -175,23 +177,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: C++
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: React
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Clarence Franklin©</a>
