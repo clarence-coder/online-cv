@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: clarencefranklin88@gmail.com
-    phone: +91 9740256978
+    phone: +91 9740256977
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin: alandoe
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -35,31 +35,39 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Arabic
-        level: Basic
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Reading
+      - item: Climbing
         link:
 
-      - item: Debating
+      - item: Snowboarding
         link:
 
-      - item: Coding
+      - item: Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-       A Web Developer who has a passion for Computer Science and Artificial intelligence. I love finding innovative ways to solve complex computer challenges and love to code.
-      
+      Hi there I'm Clarence. Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: B.E in Computer Science
-      university: Dayananda Sagar College of Engineering
-      time: 2019 - 2022
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
           - Bullet point
           
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -72,41 +80,47 @@ experiences:
       time: March 2022 June 2022
       company: Tactix, India
       details: |
-        
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
           - Completely redesigned and developed webpages from the ground up.
           - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
           - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
           - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
           - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
            
+
+
+
+          
     - role: Mobile and Web Developer Intern
       time: April 2021
-      company: The Sparks Foundation, India
-      details: |
-        Hi thereclarenceDescribe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Designed Web Applications incorporating various frameworks and librariest
-          - Produced quality web-pages with mobile responsive capability.
-          - Assisted team with testing code in multiple browsers.
-          - Developed TSF's websites with features such as payment gateway and social media integration.
-          - Contributed to team meetings, offering valuable insights and solutions to technical challenges.
-
-   - role: Full Stack Developer Intern
-      time: 2012 - 2014
-      company: Globelink West Star Shipping Co, Kuwait
+      company: The Sparks Foundation
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Utilized HTML, CSS, and JavaScript to create responsive designs suitable for various devices. 
-          - Enhanced customer satisfaction by achieving a 15% reduction in server load times, addressing connectivity concerns, and bolstering the company's online visibility.
-          - Optimized MySQL databases for web applications, improving data retrieval time by 34% while also storing useful user data and information.
-     
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -166,7 +180,7 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Rest apis
+      - name: Angular
         level: 98%
 
       - name: HTML5 & CSS
