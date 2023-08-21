@@ -90,7 +90,15 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
           - Completely redesigned and developed webpages from the ground up.
-          - Bullet point
+          - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
+          - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
+          - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
+          - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
+           
+
+
+
+          
     - role: Mobile and Web Developer Intern
       time: April 2021
       company: The Sparks Foundation
