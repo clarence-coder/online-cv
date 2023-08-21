@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Clarence Franklin
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,7 +39,7 @@ sidebar:
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
+        - idiom: 
           level: Professional
 
     interests:
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Testing1Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -70,22 +70,31 @@ education:
         university: University of London
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          Testing2Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            - Bullet point
+            - Bullet point
+            - Bullet point
+            - Bullet point
+            
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          Testing3Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
+            - Bullet point
+            - Bullet point
+            - Bullet point
+            - Bullet point
             - Bullet point
             - Bullet point
 
@@ -96,7 +105,7 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Testing4Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -105,28 +114,40 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Completely redesigned and developed webpages from the ground up.
+            - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
+            - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
+            - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
+            - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Testing5Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+            - Bullet point
+            - Bullet point
             - Bullet point
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Testing6Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+            - Bullet point
+            - Bullet point
             - Bullet point
             - Bullet point
 
