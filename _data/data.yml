@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Clarence Franklin
-    tagline: AIML & Full Stack Developer 
+    tagline: Full Stack Developer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: clarencefranklin88@gmail.com
-    phone: +91 9740256977
+    phone: +91 9740256934
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: clarence-coder.github.io/cv #do not add http://
     linkedin: alandoe
     xing: alandoe
     github: sharu725
@@ -58,15 +58,15 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.E in Computer Science
+      university: Dayananda Sagar College of Engineering
+      time: 2019 - 2022
       details: |
           - Bullet point
           
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 
+      university: 
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,10 +95,6 @@ experiences:
           - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
           - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
            
-
-
-
-          
     - role: Mobile and Web Developer Intern
       time: April 2021
       company: The Sparks Foundation
@@ -108,8 +104,13 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Designed Web Applications incorporating various frameworks and libraries
+          - Produced quality web-pages with mobile responsive capability.
+          - Assisted team with testing code in multiple browsers.
+          - Developed TSF's websites with features such as payment gateway and social media integration
+          - Contributed to team meetings, offering valuable insights and solutions to technical challenges.
+          
+          
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
