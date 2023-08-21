@@ -33,10 +33,7 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
-
-      - idiom: 
-        level: 
+        level: Professional 
 
     interests:
       - item: Coding
@@ -51,12 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi there I'm Clarence. Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi there I'm Clarence. I'm a Web developer who loves to code and implement design and someone who strives to solve complex code and programming issues.
+      My penchant for web development soon transformed into a love for Machine Learning and AI. What's next is yet to come.
 education:
     - degree: B.E in Computer Science
       university: Dayananda Sagar College of Engineering
@@ -91,11 +84,7 @@ experiences:
       time: April 2021
       company: The Sparks Foundation
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        An NGO where I worked on web projects as well as mobile development projects as a way to give back to the community.
           - Designed Web Applications incorporating various frameworks and libraries
           - Produced quality web-pages with mobile responsive capability.
           - Assisted team with testing code in multiple browsers.
@@ -107,11 +96,7 @@ experiences:
       time: July 2019
       company: Kuwait City, Kuwait
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       
           - Utilized HTML, CSS, and JavaScript to create responsive designs suitable for various devices. 
           - Enhanced customer satisfaction by achieving a 15% reduction in server load times, addressing connectivity concerns, and bolstering the company's online visibility.
           - Optimized MySQL databases for web applications, improving data retrieval time by 34% while also storing useful user data and information.
@@ -153,15 +138,6 @@ publications:
         authors: Clarence Franklin, Ridhima Rajesh K, Ankit Verma, M.Nitish, Deepak G, Harish K
         conference: International Journal for Research in Applied Science & Engineering Technology,2022
 
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
