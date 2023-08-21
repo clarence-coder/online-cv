@@ -80,15 +80,7 @@ experiences:
       time: March 2022 June 2022
       company: Tactix, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+
           - Completely redesigned and developed webpages from the ground up.
           - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
           - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
@@ -127,9 +119,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following are some of the few projects that I have worked and developed that I am proud of accomplishing.
     assignments:
       - title: Project Repository Management System
         link: "#hook"
@@ -141,7 +131,7 @@ projects:
 Integrated machine learning models for facial feature extraction and recognition with an accuracy of 92%.
 Stored the data into a .csv sheet along with other data such as time, date etc."
 
-      - title: Tempo
+      - title: Movie Recommendation System
         link: "#"
         tagline: "A movie recommendation system that uses AI concepts such as CountVectorizer to provide great movie recommendations"
 
@@ -156,9 +146,7 @@ Stored the data into a .csv sheet along with other data such as time, date etc."
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Following publication published in a International Journal
     papers:
       - title: Challenging Approaches in Project Repository Management System
         link: "#"
@@ -166,12 +154,12 @@ publications:
         conference: International Journal for Research in Applied Science & Engineering Technology,2022
 
       - title: 
-        link: "#"
+        link: 
         authors: 
         conference: 
 
       - title: 
-        link: "#"
+        link: 
         authors: 
         conference: 
 
