@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: clarencefranklin88@gmail.com
-    phone: +91 9740256977
+    phone: +91 9740256978
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: 
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -166,7 +166,7 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Rest apis
         level: 98%
 
       - name: HTML5 & CSS
