@@ -3,22 +3,20 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Clarence Franklin
-    tagline: Full Stack Developer
+    tagline: AIML & Full Stack Developer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: clarencefranklin88@gmail.com
+    phone: +91 9740256978
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: 
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -31,171 +29,88 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: English
+        level: Native
 
-        - idiom: French
-          level: Professional
+      - idiom: French
+        level: Professional
 
-        - idiom: 
-          level: Professional
+      - idiom: Arabic
+        level: Basic
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Reading
+        link:
 
-        - item: Snowboarding
-          link:
+      - item: Debating
+        link:
 
-        - item: Cooking
-          link:
+      - item: Coding
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Testing1Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       A Web Developer who has a passion for Computer Science and Artificial intelligence. I love finding innovative ways to solve complex computer challenges and love to code.
+      
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Testing2Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Testing3Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-
+    - degree: B.E in Computer Science
+      university: Dayananda Sagar College of Engineering
+      time: 2019 - 2022
+      details: |
+          - Bullet point
+          
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Testing4Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Completely redesigned and developed webpages from the ground up.
-            - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
-            - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
-            - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
-            - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
+    - role: Lead Developer
+      time: March 2022 June 2022
+      company: Tactix, India
+      details: |
+        
+          - Completely redesigned and developed webpages from the ground up.
+          - Enhanced the website's functionality by seamlessly integrating updated product catalogs, working closely with the founders.
+          - Developed back-end APIs using Node.js and Express, enhancing dynamic front-end updates with React.
+          - Designed user interfaces utilizing modern frameworks, leading to a notable 31% increase in user satisfaction.
+          - Led the migration from Firebase to Google Cloud Platform, resulting in monthly cost savings exceeding $3,700 and achieving an average load speed improvement of 38%.
+           
+    - role: Mobile and Web Developer Intern
+      time: April 2021
+      company: The Sparks Foundation, India
+      details: |
+        Hi thereclarenceDescribe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Designed Web Applications incorporating various frameworks and librariest
+          - Produced quality web-pages with mobile responsive capability.
+          - Assisted team with testing code in multiple browsers.
+          - Developed TSF's websites with features such as payment gateway and social media integration.
+          - Contributed to team meetings, offering valuable insights and solutions to technical challenges.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Testing5Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Testing6Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+   - role: Full Stack Developer Intern
+      time: 2012 - 2014
+      company: Globelink West Star Shipping Co, Kuwait
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Utilized HTML, CSS, and JavaScript to create responsive designs suitable for various devices. 
+          - Enhanced customer satisfaction by achieving a 15% reduction in server load times, addressing connectivity concerns, and bolstering the company's online visibility.
+          - Optimized MySQL databases for web applications, improving data retrieval time by 34% while also storing useful user data and information.
+     
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
+      You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
@@ -207,25 +122,6 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
@@ -270,7 +166,7 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Rest apis
         level: 98%
 
       - name: HTML5 & CSS
@@ -283,4 +179,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Clarence Franklin©</a>
