@@ -131,25 +131,27 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Project Repository Management System
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Built a system for universities to seamlessly collaborate with students, review their project, document data, while emphasizing on efficiency and convenience."
 
-      - title: DevStudio
+      - title: Facial Recognition Attendance Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Implemented the project using Python and popular libraries like OpenCV and dlib.
+Integrated machine learning models for facial feature extraction and recognition with an accuracy of 92%.
+Stored the data into a .csv sheet along with other data such as time, date etc."
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A movie recommendation system that uses AI concepts such as CountVectorizer to provide great movie recommendations"
 
-      - title: Atom
+      - title: 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 publications:
     title: Publications
@@ -158,20 +160,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Challenging Approaches in Project Repository Management System
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Clarence Franklin, Ridhima Rajesh K, Ankit Verma, M.Nitish, Deepak G, Harish K
+        conference: International Journal for Research in Applied Science & Engineering Technology,2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
